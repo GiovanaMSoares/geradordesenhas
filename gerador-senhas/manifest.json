@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Gerador de Senhas",
+    "version": "1.0",
+    "description": "Gere senhas seguras facilmente.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": []
+  }
+  
+  
